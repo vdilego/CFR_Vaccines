@@ -8,12 +8,9 @@
 
  Note:
  All of the data used in this paper refers to data available until Dec.2021, before
- the Omicron wave. In addition, any changes to format or retrospective corrections to
- data are only valid until 25.04.2022, which means that any changes after this will not be reflected
- in the main paper; please take that into consideration when interpreting results and running
- updated codes or performing new downloads.
- Also, the format of the data in both The Our World in Data and the Austrian website are changing
- continuously. Check for consistencies in the information, columns and others.
+ the Omicron wave. Please take into consideration when interpreting results and running
+ updated codes or performing new downloads. The data is continuously being updated in both The Our World in Data and the Austrian website. Check for consistencies in data format and others. Any changes to format or retrospective correction are only valid until 25.04.2022. 
+
  The data used in the paper is the one currently saved in this directory.
 
  All data is available online and retrieved from:

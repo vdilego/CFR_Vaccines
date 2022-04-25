@@ -6,12 +6,9 @@
 #  https://doi.org/10.1016/j.ijid.2022.03.059
 #
 # Note:
-# All of the data used in this paper refers to data available until Dec.2021, before
-# the Omicron wave. In addition, any changes to format or retrospective corrections to
-# data are only valid until 25.04.2022, which means that any changes after this will not be reflected
-# in the main paper; please take that into consideration when interpreting results and running
-# updated codes or performing new downloads.
-# Also, the format of the data in both The Our World in Data and the Austrian website are changing
+# Check the README file for caveats in the data.
+
+# The format of data in both The Our World in Data and the Austrian website are changing
 # continuously. Check for consistencies in the information, columns and others.
 # The data used in the paper is the one currently saved in this directory.
 #
@@ -430,6 +427,9 @@ p2<-DF.test %>%
         axis.line.x = element_line(size = 0.5, linetype = "solid", colour = "black"),
         axis.line.y = element_line(size = 0.5, linetype = "solid", colour = "black"))
 
+# some issues in some operational systems were observed. Current ubuntu/MAC versions ran into erros
+# when saving the figures. The Figures render well, but are not saved. check with your
+# system and contact me if you run into problems.
 
 fig2<-ggarrange(p1, p2, ncol=2, nrow=1, common.legend = TRUE, legend="bottom")
 png(here(figs.folder,"Fig2_25042022.png"),"Fig2_25042022.png", units="in", width=18, height=8, res=300)
@@ -565,6 +565,11 @@ pC<-DATAB %>%
 
 
 # arranging the panels into one single plot and saving it as a high resolution .png
+
+
+# some issues in some operational systems were observed. Current ubuntu/MAC versions ran into erros
+# when saving the figures. The Figures render well, but are not saved. check with your
+# system and contact me if you run into problems.
 
 fig3<-ggarrange(pA, pB+ rremove("ylab"),
                 pC+ rremove("ylab"), ncol=3,
