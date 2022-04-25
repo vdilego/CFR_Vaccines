@@ -1,8 +1,7 @@
 
- Codes and data for replicating the study : "The impact of COVID-19 vaccines on the Case Fatality Rate:
-  The importance of monitoring breakthrough infections", by Vanessa di Lego, Miguel Sánchez-Romero and
-  Alexia Prskawetz. International Journal of Infectious Diseases.
-  https://doi.org/10.1016/j.ijid.2022.03.059
+ Codes and data for replicating the study : ["The impact of COVID-19 vaccines on the Case Fatality Rate:
+  The importance of monitoring breakthrough infections"](https://linkinghub.elsevier.com/retrieve/pii/S1201971222001977), by Vanessa di Lego, Miguel Sánchez-Romero and
+  Alexia Prskawetz. International Journal of Infectious Diseases. https://doi.org/10.1016/j.ijid.2022.03.059
 
 ![](https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/dd987ebe-2663-4fca-836b-efd058f4fe36/gr1_lrg.jpg)
 
