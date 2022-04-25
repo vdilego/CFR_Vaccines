@@ -4,6 +4,9 @@
   Alexia Prskawetz. International Journal of Infectious Diseases.
   https://doi.org/10.1016/j.ijid.2022.03.059
 
+![](https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/dd987ebe-2663-4fca-836b-efd058f4fe36/gr1_lrg.jpg)
+
+
  Note:
  All of the data used in this paper refers to data available until Dec.2021, before
  the Omicron wave. In addition, any changes to format or retrospective corrections to
